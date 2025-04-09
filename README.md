@@ -5,7 +5,8 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asura146
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asura146&layout=compact
 )](https://github.com/anuraghazra/github-readme-stats)
 <!---
 Asura146/Asura146 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
